@@ -1,0 +1,7 @@
+{
+  "appId": "com.maxzotov.tasks.test",
+  "appName": "CCCalendar",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}

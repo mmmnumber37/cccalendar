@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">CCCalendar</string>
+    <string name="title_activity_main">CCCalendar</string>
+    <string name="package_name">com.maxzotov.tasks.test</string>
+    <string name="custom_url_scheme">com.maxzotov.tasks.test</string>
+</resources>
